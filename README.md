@@ -4,5 +4,5 @@ The new model needs to be added and used in mmdet. The new dilated will be uploa
 VAS datasets can be found in Baidu links. Link: https://pan.baidu.com/s/1QUjzUU3g7QElxG_otyv0Qg 
 Extraction code: ux1g 
 
-
+More specific usage information and codes will be published after publication
 
